@@ -2,6 +2,7 @@
 #include <cstdlib> 
 #include <stdio.h>
 using namespace std;
+// comentario
 
 void limpiarPantalla();
 void imprimir_menu();
